@@ -192,7 +192,7 @@
     .featured1, .featured2, .featured3{
         display: flex;
         flex-direction: column;
-        text-align: justify;
+        text-align: left ;
     }
 
 
